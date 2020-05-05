@@ -4,13 +4,15 @@ IP Geo Finder provide Geo Location based on domain / IP Address
 # Demo
 http://ip-geo-finder.surge.sh/
 
+![Preview](https://raw.githubusercontent.com/fiando/IP-Geo-Finder/master/public/screenshot.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-## `yarn install`
+### `yarn install`
 
 This command will install dependencies needed for application.
 
